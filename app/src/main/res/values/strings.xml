@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="no_recipes">No Recipes</string>
+    <string name="title">Recipes</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="recipeId">Recipes</string>
+    <string name="recipe_description">Recipe Description</string>
+</resources>
